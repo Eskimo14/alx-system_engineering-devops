@@ -1,3 +1,3 @@
 #!/bin/bash
-switches
+print user name
 
